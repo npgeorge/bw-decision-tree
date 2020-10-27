@@ -1,2 +1,2 @@
 # bw-decision-tree
- Build Week Decision Tree from Scratch
+Decision Tree from Scratch in Python
